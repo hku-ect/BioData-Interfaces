@@ -18,7 +18,7 @@ bpm.maxpat is a max sub patcher that returns a mean bpm and a mean bpm with adap
 
 3. peaks and through are detected in the smoothed signal.
 Troughs reset peak-detection and vice versa. The peaks and troughs are sent to a ranger sub patch for the range of visualisations. You can set the range manually or by clicking on "3. set range for visualisation".
-![ranged-heart-visualisation](ranged-heart-visualitation.png)
+![ranged-heart-visualisation](/ranged-heart-visualitation.png)
 
 
 
