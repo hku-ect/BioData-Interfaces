@@ -4,12 +4,12 @@ Here you will find information about different BioData-Interfaces and how you ca
 The different BioData interface that we are in the process of researching are:
 
 * Bitalino
-* Hearlive
-* Muse
-* BrainWave
-* Myo
-* Webcam for heartbeat detection
-* Eyetracker
+* Heartlive
+* Muse brain-computer interface
+* BrainWave brain-computer interface with BrainOSC 
+* Myo (See Myo-OSC)
+* Webcam for heartbeat detection (webcam pulse detector)
+* Eye tracker
 * Manus VR
 
 ## Using (web)Cam for heartbeat detection
@@ -19,6 +19,6 @@ Using https://thearn.github.io/webcam-pulse-detector/ as starting point we resea
 * The webcam-pulse-detector works with Python3
 * As dependencies you need to install opencv2 and Matplotlib
 
-Using [this](https://github.com/ikbenmacje/webcam-pulse-detector) fork you can also send out the pusle as OSC message.
+Using [this](https://github.com/ikbenmacje/webcam-pulse-detector) fork you can also send out the pulse as OSC message.
 
 
