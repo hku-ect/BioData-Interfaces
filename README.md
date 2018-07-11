@@ -20,7 +20,7 @@ Using https://thearn.github.io/webcam-pulse-detector/ as starting point we resea
 * As dependencies you need to install: 
   * openCV2 `pip3 install opencv-python`  
   * Matplotlib `python3 -mpip install matplotlib` (https://matplotlib.org/faq/installing_faq.html)
-* You need to keep your face still for calibrating
+* You need to keep your head still for calibrating
 * It is unclear how accurate it is
 
 Using [this](https://github.com/ikbenmacje/webcam-pulse-detector) fork you can also send out the pulse as OSC message.
@@ -40,7 +40,7 @@ For Open Source (but not free) eye tracking take a look here: https://pupil-labs
 
 ## Manus VR
 
-To use Manus VR you need to have a software license to integrate the gloves with for example with Unity. At the moment we do not have acces to this so we could do not further tyests with the device.
+To use Manus VR you need to have a software license to integrate the gloves for example with Unity. At the moment we do not have access to this so we could do not further tests with the device.
 
 ## MYO
 
