@@ -20,5 +20,7 @@ bpm.maxpat is a max sub patcher that returns a mean bpm and a mean bpm with adap
 Troughs reset peak-detection and vice versa. The peaks and troughs are sent to a ranger sub patch for the range of visualisations. You can set the range manually or by clicking on "3. set range for visualisation".
 ![ranged-heart-visualisation](https://raw.githubusercontent.com/hku-ect/BioData-Interfaces/master/HeartLive/ranged-heart-visualisation.png)
 
+# HeartLive fft basic analysis
 
+a very simple fft-analysis max patch is included as well for further elaboration. The data of only the first few bins of the FFT are currently used (as the heartlive signal will only have information in the very low frequency domain). This will result in better visualisations and better results. 
 
