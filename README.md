@@ -1,6 +1,7 @@
 # BioData-Interfaces
 
 Here you will find information about different BioData-Interfaces and how you can use them.
+Keep an eye on the ECT Blog as well : https://pong.hku.nl/blog/ 
 The different BioData interface that we are in the process of researching are:
 
 * Bitalino
