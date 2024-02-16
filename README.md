@@ -46,9 +46,11 @@ To use Manus VR you need to have a software license to integrate the gloves for 
 ## MYO
 
 The possibilities of using a Myo are well documented.
-* You can take a look ate the official developer portal here: https://developer.thalmic.com/
+* You can take a look ate the official developer portal here: https://developer.thalmic.com/ (deprecated)
 * You can find a simple MYO to OSC tool here: https://github.com/hku-ect/Myo
 * You can find the github of the Thalmic Labs Myo here: https://github.com/thalmiclabs
+
+* Update 2024: we succesfully connected Myo via https://github.com/iomz/dl-myo (Dongle-less Myo : Python script)
 
 
 ## Getting in Bitalino data and sending it over OSC
