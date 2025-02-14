@@ -6,6 +6,7 @@ The different BioData interface that we are in the process of researching are:
 
 * Bitalino
 * Heartlive
+* Vernier Breath Sensor 
 * Muse brain-computer interface
 * BrainWave brain-computer interface with BrainOSC 
 * Myo (See Myo-OSC)
@@ -38,6 +39,10 @@ To use the eyetracking data in other software you can use:
 You can then either use the data in Processing or OpenFrameworks(OF) or sent it from Processing/OF via [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) to the software of your choice that supports OSC.
 
 For Open Source (but not free) eye tracking take a look here: https://pupil-labs.com/
+
+## Vernier Breath Sensor 
+well documented and maintained sensors, in this case a (thorax stretch) breath sensor
+https://vernierst.github.io/godirect-examples/python/
 
 ## Manus VR
 
